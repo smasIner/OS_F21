@@ -1,0 +1,16 @@
+   67  git config --global user.email "m.shaihutdinov@innopolis.university"
+   68   git config --global user.name "smasIner"
+   69  git commit -m "first commit"
+   70  git push
+   71  dc
+   72  cd
+   73  pwd
+   74  cd /Users/smasiner/Downloads/Shell/OS_F21/week1 
+   75  pwd
+   76  ls usr/bin
+   77  ls /usr/bin
+   78  ls /usr/bin | grep gcc
+   79  ls /usr/bin | grep gcc | sort
+   80  ls /usr/bin | grep gcc | sort -r
+   81  ls /usr/bin | grep gcc | sort -r > ex1.txt
+   82  nano ex1.txt
