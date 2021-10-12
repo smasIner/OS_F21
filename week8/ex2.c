@@ -2,9 +2,10 @@
 #include <stdlib.h>
 #include <unistd.h>
 
-// "si" and "so" (amount of memory Swapped In and Out) numbers change only when MB is near the 1000
-// when "so" become to grow, the pc freezes for several seconds.
 
+// Due to enough memory on my virtual machine, the swap memory was not used when I runned this program. To force system use it, I needed to 
+// fill the main memory with another program. In case of additional filling the memory with second program that fills the memory with 1gb per second, the swap memory
+// was used after 20 seconds (when memory was filled).
 int main() {
     char *ptr;
     int size = 10 * 1024 * 1024;
