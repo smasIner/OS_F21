@@ -1,0 +1,8 @@
+8KB pages = 2^13 bits.
+The machine virtual addresses are 16 bits.
+Consequently, 13 bits for offset and 3 (16 - 13) for virtual page.
+So that, there can be 2^3 = 8 virtual pages. 
+Consequently, 8 entries in the page table.
+//////////////////////////////////////////////
+Result: 8
+//////////////////////////////////////////////

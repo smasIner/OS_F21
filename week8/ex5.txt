@@ -1,0 +1,5 @@
+Physical memory refers to a real memory of the computer, e.g - RAM.
+Virtual memory is an abstraction that is used for programming.
+Consequently, you can define it bigger than physical memory for data arranging purposes.
+Although, virtual addresses may be correlated to the physical memory by using page tables.
+

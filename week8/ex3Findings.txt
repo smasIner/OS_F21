@@ -1,0 +1,4 @@
+We can see that our process appeared in the top display. We also can see precise memory that process is using.
+While it does not cause any troubles when I runned it with filling 10MB per second, it was causing lags when I filled with 1GB per second. Probably, because at that moment
+the swap memory was used.
+

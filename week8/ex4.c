@@ -12,7 +12,7 @@ int main() {
         ptr = malloc(size);
         if(i == 0){
             getrusage(RUSAGE_SELF, &used);
-            printf("Memory usage in MB (Before using memset)): %f \n", (double)used.ru_maxrss/1024/1024);
+            printf("Memory usage in MB (Before using memset): %f \n", (double)used.ru_maxrss/1024/1024);
         }
         memset(ptr, value, size);
         getrusage(RUSAGE_SELF, &used);
