@@ -1,0 +1,9 @@
+The hit/miss ratio increased because we have repeatedly accesed the page 394
+at the end;
+It could possibly happen if:
+1) We needed to do the same work at the end of executing of our program in a
+cycle. For e.g to check whether the end conditions met or not after some
+times after the work is done
+2) We can increase this ratio if we introduce the process that repeatedly
+access the same page. For e.g the driver for some hardware that checks
+the condition of it every cycle.
