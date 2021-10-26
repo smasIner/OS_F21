@@ -1,0 +1,6 @@
+link1 - /Users/smasiner/Downloads/Shell/OS_F21/week10/tmp/link1
+ /Users/smasiner/Downloads/Shell/OS_F21/week10/tmp/file1
+ 
+file1 - /Users/smasiner/Downloads/Shell/OS_F21/week10/tmp/link1
+ /Users/smasiner/Downloads/Shell/OS_F21/week10/tmp/file1
+ 
