@@ -1,0 +1,10 @@
+1)User  -rw
+  Group -rw-
+  Other ---
+2)User  rwx
+  Group rwx
+  Other r-x
+3)User  rwx
+  Group rwx
+  Other rwx
+
