@@ -1,0 +1,11 @@
+ctrl + c to exit!
+Available shortcuts are: 
+ P + E 
+ C + A + P 
+ F + C +  K 
+I passed the Exam!
+I passed the Exam!
+Get some cappuccino!
+Get some cappuccino!
+I have got 0 for last lab, because I forgot to upload the week 11 lab to moodle, but I did the lab at github.
+I have got 0 for last lab, because I forgot to upload the week 11 lab to moodle, but I did the lab at github.
